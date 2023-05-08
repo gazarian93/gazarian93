@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gazarian93
 - 👀 I’m interested in Testing
 - 🌱 I’m currently learning Charles
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Activision
 - 📫 How to reach me ...
 
 <!---
